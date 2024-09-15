@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/yolov10_modified/saiod_od/train/images
+val: /content/drive/MyDrive/yolov10_modified/saiod_od/valid/images
+test: /content/drive/MyDrive/yolov10_modified/saiod_od/test/images
+
+nc: 10
+names: ["building", "car", "debri", "ftpath", "mroad", "ofield", "roof", "shadow", "tank", "tree"]

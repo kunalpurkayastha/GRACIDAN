@@ -1,0 +1,6 @@
+_BASE_: "../Base-FCOS-test-2x.yaml"
+MODEL:
+  WEIGHTS: "/content/drive/MyDrive/Kunal/BCNet/pretrained_models/model_final_beta.pth"
+  RESNETS:
+    DEPTH: 101
+
