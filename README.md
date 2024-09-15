@@ -1,5 +1,5 @@
 
-# GRACIDAN: Graphically RESIDual Attentive Network For Tackling Aerial Image Occlusion
+# GRESIDAN: Graphically RESIDual Attentive Network For Tackling Aerial Image Occlusion
 
 
 ### Updates
